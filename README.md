@@ -26,3 +26,9 @@ Seguem alguns links que  valem a pena olhar:
 * Grafos IME-USP (https://www.ime.usp.br/~pf/algoritmos_para_grafos/index.html#contents)
 * Complexidade IME-USP (https://www.ime.usp.br/~pf/analise_de_algoritmos/index.html)
 * Problema do Caixeiro Viajante [Isto é Matemática] (https://www.youtube.com/watch?v=_vKMyRj855A)
+* Livro do Cormen (Introduction to Algorithms) Acha fácil se procurar na Amazon
+
+#### Direitos Autorais
+* Estas aulas foram feitas com base nos conhecimentos do autor e também com exemplos disponibilizados na internet sem necessidade de cobrança. Caso haja interesse em remoção de conteúdo, ou créditos basta entrar em contato.
+* The classes were developed based on the author's own ideas, and also based on examples available on the internet that did not require any type of payment. In case of rights violation or credits that need to be mentioned, please contact me.
+
