@@ -26,6 +26,8 @@ Seguem alguns links que  valem a pena olhar:
 * Grafos IME-USP (https://www.ime.usp.br/~pf/algoritmos_para_grafos/index.html#contents)
 * Complexidade IME-USP (https://www.ime.usp.br/~pf/analise_de_algoritmos/index.html)
 * Problema do Caixeiro Viajante [Isto é Matemática] (https://www.youtube.com/watch?v=_vKMyRj855A)
+* Busca em Largura, um video ilustrativo (https://www.youtube.com/watch?v=x-VTfcmrLEQ)
+* Busca em Profundidade, um video ilustrativo (https://www.youtube.com/watch?v=NUgMa5coCoE)
 * Livro do Cormen (Introduction to Algorithms) Acha fácil se procurar na Amazon
 
 #### Direitos Autorais
